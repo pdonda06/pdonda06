@@ -1,6 +1,6 @@
 ## Namaste there 👋
 # 💫 About Me:
-I am currently working on web development with MERN stack, I am learning AI and ML also I solve DSA problem at daily basis. 
+I do code. 
 
 
 ## 🌐 Socials:
